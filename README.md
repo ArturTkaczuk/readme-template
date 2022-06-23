@@ -21,8 +21,13 @@ One of my first projects. Simple game made in JS, CSS & HTML to learn coding. Ch
 
 **a) Download project via git**
 
-1. Run command in terminal `git clone https://github.com/ArturTkaczuk/insect-game.git`
-2. Run index.html to open game in browser
+Run commands in terminal:
+
+```sh
+git clone project-name.github.com
+cd project-name
+npm install
+```
 
 **b) Download project manually from GitHub**
 
