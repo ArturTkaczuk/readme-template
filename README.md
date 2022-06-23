@@ -31,7 +31,9 @@ One of my first projects. Simple game made in JS, CSS & HTML to learn coding. Ch
 
 ## Usage
 
-After You open index.html, click **start game**, then **chose the bug** and *start playing*
+Useful commands - run in project's directory:
+1. Dev server `npm run start`
+2. Production build `npm run build`
 
 ## Technologies
 
