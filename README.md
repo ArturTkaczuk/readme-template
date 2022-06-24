@@ -21,6 +21,8 @@ One of my first projects. Simple game made in JS, CSS & HTML to learn coding. Ch
 
 **a) Download project via git**
 
+Note: To run git commands you need [Git](https://git-scm.com/downloads) installed
+
 Run commands in terminal:
 
 ```sh
