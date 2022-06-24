@@ -32,7 +32,7 @@ npm install
 **b) Download project manually from GitHub**
 
 1. Download project from [this link](https://github.com/ArturTkaczuk/project-template/archive/refs/heads/main.zip)
-2. Run index.html to open game in browser
+2. Run index.html to open app in browser
 
 ## Usage
 
