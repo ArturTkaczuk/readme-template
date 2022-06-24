@@ -16,12 +16,12 @@ One of my first projects. Simple game made in JS, CSS & HTML to learn coding. Ch
 ## Requirements
 
 - Latest web browser to run app on website ([Google Chrome](https://www.google.com/intl/en_en/chrome/))
+- To run git commands you need [Git](https://git-scm.com/downloads) installed
+- To run npm commands you need [node](https://nodejs.org/en/download/) installed
 
 ## Installation
 
 **a) Download project via git**
-
->Note: To run git commands you need [Git](https://git-scm.com/downloads) installed; To run npm command you need [node](https://nodejs.org/en/download/) installed
 
 Run commands in terminal:
 
